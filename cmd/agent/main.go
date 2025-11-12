@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"flag"
-	"fmt"
+	//"fmt"
 	"os"
 	"os/signal"
 	"syscall"
