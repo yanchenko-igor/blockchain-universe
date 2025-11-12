@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yanchenko.igor/blockchain-universe/pkg/logger"
+	"github.com/yanchenko-igor/blockchain-universe/pkg/logger"
 )
 
 // Event represents a blockchain event

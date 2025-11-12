@@ -9,11 +9,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/yanchenko.igor/blockchain-universe/internal/agent"
-	"github.com/yanchenko.igor/blockchain-universe/internal/blockchain"
-	"github.com/yanchenko.igor/blockchain-universe/internal/config"
-	"github.com/yanchenko.igor/blockchain-universe/internal/llm"
-	"github.com/yanchenko.igor/blockchain-universe/pkg/logger"
+	"github.com/yanchenko-igor/blockchain-universe/internal/agent"
+	"github.com/yanchenko-igor/blockchain-universe/internal/blockchain"
+	"github.com/yanchenko-igor/blockchain-universe/internal/config"
+	"github.com/yanchenko-igor/blockchain-universe/internal/llm"
+	"github.com/yanchenko-igor/blockchain-universe/pkg/logger"
 )
 
 var (

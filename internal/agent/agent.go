@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yanchenko.igor/blockchain-universe/internal/blockchain"
-	"github.com/yanchenko.igor/blockchain-universe/internal/config"
-	"github.com/yanchenko.igor/blockchain-universe/internal/llm"
-	"github.com/yanchenko.igor/blockchain-universe/pkg/logger"
+	"github.com/yanchenko-igor/blockchain-universe/internal/blockchain"
+	"github.com/yanchenko-igor/blockchain-universe/internal/config"
+	"github.com/yanchenko-igor/blockchain-universe/internal/llm"
+	"github.com/yanchenko-igor/blockchain-universe/pkg/logger"
 )
 
 // Agent represents a blockchain universe agent

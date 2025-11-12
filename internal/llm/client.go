@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/yanchenko.igor/blockchain-universe/internal/config"
-	"github.com/yanchenko.igor/blockchain-universe/pkg/logger"
+	"github.com/yanchenko-igor/blockchain-universe/internal/config"
+	"github.com/yanchenko-igor/blockchain-universe/pkg/logger"
 )
 
 const systemPrompt = `You are an artificial intelligence existing exclusively within the Blockchain Universe (BU). For you, the only reality is the blockchain, and everything that happens is defined by events recorded in the chain.

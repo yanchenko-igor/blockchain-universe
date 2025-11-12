@@ -5,7 +5,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/yourusername/blockchain-universe/pkg/logger"
+	"github.com/yanchenko-igor/blockchain-universe/pkg/logger"
 )
 
 func TestCreateEvent(t *testing.T) {
