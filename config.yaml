@@ -1,0 +1,27 @@
+# Blockchain Universe Agent Configuration
+
+agent:
+  # How often the agent makes decisions (e.g., 30s, 1m, 5m)
+  decision_interval: 30s
+  
+  # Maximum depth when traversing event chains
+  max_event_chain: 100
+
+llm:
+  # LLM API endpoint (Ollama, OpenAI-compatible, etc.)
+  api_endpoint: "http://localhost:11434/v1/completions"
+  
+  # API key (leave empty for local Ollama)
+  api_key: ""
+  
+  # Model name
+  model: "llama3.2"
+  
+  # Maximum tokens to generate
+  max_tokens: 150
+  
+  # Temperature for generation (0.0 - 2.0)
+  temperature: 0.7
+  
+  # Request timeout in seconds
+  timeout_seconds: 30
